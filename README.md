@@ -18,13 +18,35 @@ This project is a 3D AI classroom application built using Three.js, React Three 
 
 
 
-## Getting Started
-Clone the repository: git clone [repository-url]
-Install dependencies: npm install
-Set up the OpenAI API key in a .env file
-Start the development server: npm start or npm run dev
-start the proxy server: node proxy.js
-Open the application in your browser: http://localhost:3000
+## **Getting Started**  
+
+1. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/haiderali780/AI-Classroom-XR.git
+   cd AI-Classroom-XR
+   ```  
+
+2. **Install Dependencies:**  
+   ```bash
+   npm install
+   ```  
+
+3. **Configure API Keys:**  
+   - Create a `.env` file in the project root.  
+   - Add your **OpenAI API Key** and other required environment variables.  
+
+4. **Start the Development Server:**  
+   ```bash
+   npm start  # or use npm run dev
+   ```  
+
+5. **Run the Proxy Server:**  
+   ```bash
+   node proxy.js
+   ```  
+
+6. **Access the Application:**  
+   Open your browser and visit: **[http://localhost:3000](http://localhost:3000)**
 
 ## Usage
 Navigate through the 3D classroom environment using the mouse and keyboard controls
